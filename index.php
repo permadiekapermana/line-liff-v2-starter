@@ -1,2 +1,2 @@
 <?php
-include_once("index.js");
+include_once("index.html");
